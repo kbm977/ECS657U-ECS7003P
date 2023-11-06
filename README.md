@@ -10,7 +10,7 @@ Maze Adventurer is an immersive 3D puzzle game that challenges your problem-solv
 
 Access the Web-GL Version:
 
-You can play the game by following this link: Maze Adventurer Web-GL Version
+You can play the game by following this link: (https://kbm977.github.io/ECS657U-ECS7003P/WebBuild/index.html)
 
 Key Features:
 
