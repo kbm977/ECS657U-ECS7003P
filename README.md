@@ -1,6 +1,7 @@
 # ECS657U-ECS7003P
 Group letter is AV
 Game concept chosen is concept 4 and project pathway 2, Puzzle.
+
 Game Title: Maze Adventurer
 
 Project Description:
