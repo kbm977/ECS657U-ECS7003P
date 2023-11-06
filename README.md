@@ -12,6 +12,13 @@ Access the Web-GL Version:
 
 You can play the game by following this link: (https://kbm977.github.io/ECS657U-ECS7003P/WebBuild/index.html)
 
+How to play:
+Left click to move player one
+Right click to move player two
+Collect all the stars to complete the level (To be implemented)
+Interact with red platforms to deactivate traps (To be implemented)
+Interact with blue platforms to activate teleport to a waypoint location
+
 Key Features:
 
 Interactive Environment: Players can interact with various objects in the game world to manipulate their positions or change their state.
